@@ -13,6 +13,6 @@ the course material available at:
 https://www-teaching.physics.ox.ac.uk/CO-MATLAB/html/co03/co03.html
 All analysis, modifications, and additional code structure were developed independently as part of this work.
 
-Note on Use
+*Note on Use*
 
 This repository is intended for demonstration and learning purposes only. Students taking this practical or related assessments should use these materials as a reference for understanding rather than as a direct solution, and should follow their institution’s guidelines on academic integrity.
