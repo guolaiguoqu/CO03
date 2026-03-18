@@ -24,3 +24,4 @@ Some data and supporting materials were provided; the analysis and code structur
 ## Acknowledgements
 
 Based on the practical *“Strange mesons from proton–antiproton collisions at the CDF experiment”*.
+Further details are provided in "ACKNOWLEDGEMENTS.md".
